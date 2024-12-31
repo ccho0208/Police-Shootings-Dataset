@@ -8,7 +8,7 @@
 This repository contains:
 
 1. **Aggregated Dataset**: A CSV file merging observations from three major datasets—Fatal Encounters, Mapping Police Violence, and The Washington Post—on fatal police shootings (both on-duty and off-duty) from 2015 to 2021.
-2. **Methodology Documentation**: A \LaTeX\ document (and compiled PDF if applicable) describing how the final aggregated dataset was created.
+2. **Methodology Documentation**: A describing how the final aggregated dataset was created.
 
 ## Purpose
 
