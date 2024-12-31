@@ -87,5 +87,3 @@ Below are the primary columns in the aggregated dataset:
 10. **fe_id** (`String` or `Integer`) — Unique ID from Fatal Encounters (if applicable).
 11. **mpv_id** (`String` or `Integer`) — Unique ID from Mapping Police Violence (if applicable).
 12. **wpost_id** (`String` or `Integer`) — Unique ID from Washington Post (if applicable).
-
-## Repository Structure
